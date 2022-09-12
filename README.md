@@ -3,7 +3,7 @@
 ## Instruções
 1. Este é um trabalho avaliativo e deve ser entregue em formato relatório.
 2. Respostas idênticas serão anuladas.
-2. Ao término do prazo final estabelecido para resolução do trabalho, o aluno será
+2. Ao término do prazo final estabelecido para resolução do trabalho, o aluno
 deverá apresentar a solução para os colegas e a sua nota terá base na solução
 apresentada.
 
