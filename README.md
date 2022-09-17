@@ -25,15 +25,15 @@ b. Tratar os dados e retirar possíveis NAN.<br>
 c. Construir n matrizes 12x12 deslizando por todo o arquivo ( a cada passo de tempo).<br>
 d. A cada matriz gerada, calcular a sua inversa.<br>
 e. Avaliar os seguintes aspectos na resolução deste problema específico:<br>
-&emsp;i. Custo de execução de cada linguagem (Pode ser tempo de processamento).
-&emsp;ii. Tratamento de erros.
-&emsp;iii. Tratamento de exceções.
-&emsp;iv. Verificação de erros.
-&emsp;v. Verificação de tipo.
-&emsp;vi. Confiabilidade.
-&emsp;vii. Legibilidade.
-&emsp;viii. Facilidade de escrita.
-&emsp;ix. Simplicidade
+&emsp;i. Custo de execução de cada linguagem (Pode ser tempo de processamento).<br>
+&emsp;ii. Tratamento de erros.<br>
+&emsp;iii. Tratamento de exceções.<br>
+&emsp;iv. Verificação de erros.<br>
+&emsp;v. Verificação de tipo.<br>
+&emsp;vi. Confiabilidade.<br>
+&emsp;vii. Legibilidade.<br>
+&emsp;viii. Facilidade de escrita.<br>
+&emsp;ix. Simplicidade<br>
 
 ### Resolução Etapa 1:
 
