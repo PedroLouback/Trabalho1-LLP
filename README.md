@@ -81,7 +81,13 @@ A execução do programa pode ser feita utilizando a *IDE __Visual Studio Code__
 
 ### Scilab
 
-Para ser feita a execução do programa utilizando _Scilab_ primeiramente será necessário a instalação do interpretador [Scilab 6.1.1](https://www.scilab.org/download/scilab-6.1.1) em seu computador, após ser feita a instalação basta abrir o interpretador 
+Para ser feita a execução do programa utilizando _Scilab_ primeiramente será necessário a instalação do interpretador [Scilab 6.1.1](https://www.scilab.org/download/scilab-6.1.1) em seu computador, após ser feita a instalação basta abrir o interpretador e abrir a pasta onde contém o arquivo _.sce_ junto com arquivo _.xls_ clicando no ícone presente no canto superior esquerdo como o circulado de vermelho na imagem abaixo:
+
+<p align="center">
+<img src="imgs/Screenshot_1.png" width="500px"/>
+</p>
+
+Após isso basta dar dois cliques no arquivo _.sce_ presente no navegador de arquivos presente já no Scilab onde irá abrir o código em uma nova janela e pressionar a tecla **F5** que irá iniciar a execução do algoritmo na janela principal do Scilab podendo presenciar as matrizes sendo percorridas.
 
 ---
 
