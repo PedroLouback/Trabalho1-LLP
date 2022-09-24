@@ -1,7 +1,5 @@
-from operator import length_hint
 import pandas as pd
 import numpy as np
-from datetime import datetime
 df = pd.read_excel("FECHAMENTO_MAIS__NEGOCIADAS_5minutos.xls")
 x = np.asarray(df)
 matrix = np.delete(x, [0], 1)
