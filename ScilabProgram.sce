@@ -1,5 +1,6 @@
 clear
 clc
+tic()
 i=1;
 arq = readxls("FECHAMENTO_MAIS__NEGOCIADAS_5minutos.xls");
 planilha = arq(1);
@@ -21,3 +22,5 @@ while line2 < 6200
     line1=line1+1;
     line2=line2+1; 
 end
+t = toc()
+disp(t);
